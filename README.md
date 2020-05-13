@@ -6,6 +6,6 @@ Hope you enjoy it: <Link to come>
 
 ## Disclaimer
 
-This is my way of doing things, I'v been using them both professionally and personally and it proved to be a good way of testing. The purpose of the article is to simply demonstrate how it can be done and demonstrate the efficiency of it and in any case it is stating that this is the only valid way of doing so.
+This is my ways of doing things, I'v been using them both professionally and personally and it proved to be a good way of testing. The purpose of the article is to simply demonstrate how it can be done and demonstrate the efficiency of it and in any case it is stating that this is the only valid way of doing so.
 
 Us, developers, we all have our ways and what matters it to pick the right tools for the job including testing.
